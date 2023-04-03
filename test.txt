@@ -1,1 +1,1 @@
-pod trunk push mpendulo.ndlovu@consensys.net metamask-ios-sdk --synchronous
+pod trunk add-owner metamask-ios-sdk mpendulo.ndlovu@consensys.net
